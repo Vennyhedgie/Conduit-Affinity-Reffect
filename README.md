@@ -17,3 +17,5 @@ Then, return to reffect ingame and refresh packs.
 # Notes
 
 This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+
+- Original UI concept by note tobi.7146.
