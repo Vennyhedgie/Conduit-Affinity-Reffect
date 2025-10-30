@@ -4,6 +4,10 @@ A more visible UI element for Revenant's Conduit Elite Specialization.
 <img width="788" height="323" alt="image" src="https://github.com/user-attachments/assets/f4a439be-585f-45ba-bdfd-7b235c5c4c93" />
 <img width="919" height="304" alt="image" src="https://github.com/user-attachments/assets/74bad7d8-8e37-4401-b905-c154afff5aba" />
 
+# If Kinetic Insight is equipped (Adds 2 Affinity, but not over 5):
+<img width="879" height="277" alt="image" src="https://github.com/user-attachments/assets/a7503e84-8a85-44a9-9ee4-4e7b17b11d66" />
+<img width="809" height="283" alt="image" src="https://github.com/user-attachments/assets/7a2b8220-de66-45f0-915e-8ebdf274bddb" />
+
 
 # How to use
 Simply download the zip file to your reffect root folder like so:
